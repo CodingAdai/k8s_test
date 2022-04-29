@@ -1,0 +1,4 @@
+/k8s-test-provider/target/
+/.idea/
+/k8s-test-consumer/target/
+/k8s-test-interface/target/
